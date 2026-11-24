@@ -135,7 +135,7 @@ My research interests span empirical machine learning, LLM reliability, AI safet
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/BackdoorAttacks">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=BACKDOOR%20ATTACKS&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,100:075985" width="100%" />
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Cybersecurity and machine learning"/>
 </a>
 
 ### 01. BackdoorAttacks
@@ -144,21 +144,20 @@ My research interests span empirical machine learning, LLM reliability, AI safet
 
 A reproducible experimental package for federated-learning backdoor attacks and defense evaluation.
 
-- Multiple attack and defense implementations
+- Attack and defense implementations
 - Dataset and simulation pipelines
 - Experiment results and figure generation
-- Reproducibility scripts
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Federated%20Learning-087E8B?style=flat-square"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Federated Learning](https://img.shields.io/badge/Federated_Learning-087E8B?style=flat-square)
 
-<a href="https://github.com/mihiit/BackdoorAttacks">↗ EXPLORE REPOSITORY</a>
+[↗ Explore Repository](https://github.com/mihiit/BackdoorAttacks)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/Ememoveri_Repo">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=EMEMOVERI&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:10243B,100:0E7490" width="100%" />
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Artificial intelligence and memory systems"/>
 </a>
 
 ### 02. EmemoVeri
@@ -168,14 +167,13 @@ A reproducible experimental package for federated-learning backdoor attacks and 
 A repository memory system for coding agents that maintains evidence about source files and tracks whether remembered information remains current.
 
 - Evidence-backed memory records
-- Git-history-based retrieval benchmark
+- Git-history-based retrieval
 - File changes, renames and deletions
-- Reproducibility and statistical evaluation
 
-<img src="https://img.shields.io/badge/AI%20Agents-087E8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Memory%20Systems-203A43?style=flat-square"/>
+![AI Agents](https://img.shields.io/badge/AI_Agents-087E8B?style=flat-square)
+![Memory Systems](https://img.shields.io/badge/Memory_Systems-203A43?style=flat-square)
 
-<a href="https://github.com/mihiit/Ememoveri_Repo">↗ EXPLORE REPOSITORY</a>
+[↗ Explore Repository](https://github.com/mihiit/Ememoveri_Repo)
 
 </td>
 </tr>
@@ -184,7 +182,7 @@ A repository memory system for coding agents that maintains evidence about sourc
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/Backdoorfed-ICTACS">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=PROBEGUARD&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,100:0F766E" width="100%" />
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Computing hardware and distributed systems"/>
 </a>
 
 ### 03. ProbeGuard
@@ -196,21 +194,17 @@ Researching behavioral trigger probing and federated backdoor defense under non-
 - Behavioral trigger probing
 - Ranking versus filtering behavior
 - Defense evaluation under heterogeneity
-- Statistical and reproducibility analysis
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Security-087E8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MIT%20License-203A43?style=flat-square"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-087E8B?style=flat-square)
 
-<a href="https://github.com/mihiit/Backdoorfed-ICTACS">↗ EXPLORE REPOSITORY</a>
-
-<sub>Repository: Backdoorfed-ICTACS</sub>
+[↗ Explore Repository](https://github.com/mihiit/Backdoorfed-ICTACS)
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/RuleDiscovery">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=RULE%20DISCOVERY&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:172554,100:0369A1" width="100%" />
+<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Mathematical equations and scientific computing"/>
 </a>
 
 ### 04. RuleDiscovery
@@ -222,12 +216,11 @@ A controlled benchmark comparing hypothesis-testing, Bayesian and learned agents
 - Hypothesis-driven agents
 - Posterior-sampling baselines
 - Learned policy comparisons
-- Statistical evaluation and reproducibility
 
-<img src="https://img.shields.io/badge/Research-087E8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agent%20Evaluation-203A43?style=flat-square"/>
+![Research](https://img.shields.io/badge/Research-087E8B?style=flat-square)
+![Agent Evaluation](https://img.shields.io/badge/Agent_Evaluation-203A43?style=flat-square)
 
-<a href="https://github.com/mihiit/RuleDiscovery">↗ EXPLORE REPOSITORY</a>
+[↗ Explore Repository](https://github.com/mihiit/RuleDiscovery)
 
 </td>
 </tr>
@@ -236,7 +229,7 @@ A controlled benchmark comparing hypothesis-testing, Bayesian and learned agents
 <td colspan="2" valign="top">
 
 <a href="https://github.com/mihiit/hallutrace">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=135&section=header&text=HALLUTRACE&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,30:164E63,100:0891B2" width="100%" />
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1600&q=85" width="100%" alt="Artificial intelligence neural network visualization"/>
 </a>
 
 ### 05. HalluTrace
@@ -250,11 +243,11 @@ Investigating whether internal language-model representations can reveal halluci
 - Cross-dataset evaluation
 - Early detection and ablation experiments
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Reliability-087E8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Representation%20Probing-203A43?style=flat-square"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM Reliability](https://img.shields.io/badge/LLM_Reliability-087E8B?style=flat-square)
+![Representation Probing](https://img.shields.io/badge/Representation_Probing-203A43?style=flat-square)
 
-<a href="https://github.com/mihiit/hallutrace">↗ EXPLORE REPOSITORY</a>
+[↗ Explore Repository](https://github.com/mihiit/hallutrace)
 
 </td>
 </tr>
@@ -263,12 +256,10 @@ Investigating whether internal language-model representations can reveal halluci
 <div align="center">
 
 <a href="https://github.com/mihiit?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
----
 
 ## 04 — RESEARCH IN PROGRESS
 
