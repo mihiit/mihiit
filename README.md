@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030712,30:0B1B33,65:075985,100:06B6D4&text=MIHIT%20NANDA&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=AI%20RESEARCHER%20%C2%B7%20MACHINE%20LEARNING%20ENGINEER&descSize=16&descAlignY=62&descColor=A5F3FC&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030712,30:0B1B33,65:075985,100:06B6D4&text=MIHIT%20NANDA&fontSize=55&fontColor=FFFFFF&fontAlignY=37&desc=AI%20RESEARCHER%20%7C%20MACHINE%20LEARNING%20ENGINEER&descSize=15&descAlignY=58&descColor=A5F3FC&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=800&height=40&lines=Investigating+the+Reliability+of+Intelligent+Systems;LLM+Reliability+%C2%B7+AI+Safety+%C2%B7+Federated+Learning;Scientific+ML+%C2%B7+AI+Agents+%C2%B7+Empirical+ML;Question+Assumptions.+Measure+Failures.+Build+Reliable+AI."/>
 
@@ -40,7 +40,7 @@
 
 <!-- ───────────────────────── 01 ABOUT ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=01%20%E2%80%94%20ABOUT%20ME&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=01%20%E2%80%94%20ABOUT%20ME&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <table>
 <tr>
@@ -75,7 +75,7 @@ researcher:
 
 <!-- ───────────────────────── 02 DOMAINS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=02%20%E2%80%94%20RESEARCH%20DOMAINS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=02%20%E2%80%94%20RESEARCH%20DOMAINS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ flowchart LR
 
 <!-- ───────────────────────── 03 FEATURED ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=03%20%E2%80%94%20FEATURED%20RESEARCH%20%26%20ENGINEERING&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=03%20%E2%80%94%20FEATURED%20RESEARCH%20%26%20ENGINEERING&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <table>
 <tr>
@@ -280,7 +280,7 @@ Investigating whether internal language-model representations can reveal halluci
 
 <!-- ───────────────────────── 04 IN PROGRESS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=04%20%E2%80%94%20RESEARCH%20IN%20PROGRESS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=04%20%E2%80%94%20RESEARCH%20IN%20PROGRESS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <table>
 <tr>
@@ -315,7 +315,7 @@ Investigating conflicting clinical evidence, temporal change, and reliability in
 
 <!-- ───────────────────────── 05 TECH ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=05%20%E2%80%94%20TECHNOLOGY%20ECOSYSTEM&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=05%20%E2%80%94%20TECHNOLOGY%20ECOSYSTEM&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
@@ -344,7 +344,7 @@ Investigating conflicting clinical evidence, temporal change, and reliability in
 
 <!-- ───────────────────────── 06 PUBLICATIONS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=06%20%E2%80%94%20RESEARCH%20%26%20PUBLICATIONS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=06%20%E2%80%94%20RESEARCH%20%26%20PUBLICATIONS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 My academic work investigates:
 
@@ -362,7 +362,7 @@ My academic work investigates:
 
 <!-- ───────────────────────── 07 ACHIEVEMENTS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=07%20%E2%80%94%20GITHUB%20ACHIEVEMENTS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=07%20%E2%80%94%20GITHUB%20ACHIEVEMENTS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mihiit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
@@ -372,7 +372,7 @@ My academic work investigates:
 
 <!-- ───────────────────────── 08 ANALYTICS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=08%20%E2%80%94%20GITHUB%20ANALYTICS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=08%20%E2%80%94%20GITHUB%20ANALYTICS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <table>
 <tr>
@@ -399,7 +399,7 @@ My academic work investigates:
 
 <!-- ───────────────────────── 09 CONTRIBUTIONS ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=09%20%E2%80%94%20CONTRIBUTION%20VISUALIZATIONS&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=09%20%E2%80%94%20CONTRIBUTION%20VISUALIZATIONS&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
@@ -425,7 +425,7 @@ My academic work investigates:
 
 <!-- ───────────────────────── 10 CONNECT ───────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=52&color=0:050B18,100:075985&text=10%20%E2%80%94%20CONNECT&fontSize=20&fontColor=22D3EE&fontAlign=7&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=52&section=header&color=0:050B18,100:075985&text=10%20%E2%80%94%20CONNECT&fontSize=20&fontColor=22D3EE&fontAlign=50&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
@@ -438,6 +438,6 @@ My academic work investigates:
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&height=30&lines=Question+assumptions.;Measure+failures.;Build+reliable+intelligence."/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:030712,35:0B1B33,70:075985,100:06B6D4&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:030712,35:0B1B33,70:075985,100:06B6D4&section=footer" width="100%"/>
 
 </div>
