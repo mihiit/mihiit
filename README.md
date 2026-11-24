@@ -1,13 +1,24 @@
+<!-- ============================================================
+     MIHIT NANDA | AI RESEARCH LAB
+     Premium Navy / Cyan Research Portfolio
+============================================================ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050B18,25:10243B,60:075985,100:06B6D4&text=MIHIT%20NANDA&fontSize=55&fontColor=FFFFFF&fontAlignY=37&desc=AI%20RESEARCHER%20%7C%20MACHINE%20LEARNING%20ENGINEER&descSize=15&descAlignY=57&animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Investigating+the+Reliability+of+Intelligent+Systems;LLM+Reliability+%7C+AI+Safety+%7C+Federated+Learning;Scientific+Machine+Learning+%7C+AI+Agents;Question+Assumptions.+Measure+Failures.+Build+Reliable+AI." />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050B18,25:10243B,60:075985,100:06B6D4&text=MIHIT%20NANDA&fontSize=55&fontColor=FFFFFF&fontAlignY=37&desc=AI%20RESEARCHER%20%7C%20MACHINE%20LEARNING%20ENGINEER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<a href="https://github.com/mihiit"><img src="https://img.shields.io/badge/GitHub-mihiit-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0003-7849-6106"><img src="https://img.shields.io/badge/ORCID-Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Investigating+the+Reliability+of+Intelligent+Systems;LLM+Reliability+%7C+AI+Safety+%7C+Federated+Learning;Scientific+Machine+Learning+%7C+AI+Agents;Question+Assumptions.+Measure+Failures.+Build+Reliable+AI." />
+
+<br/><br/>
+
+<a href="https://github.com/mihiit">
+<img src="https://img.shields.io/badge/GitHub-mihiit-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://orcid.org/0009-0003-7849-6106">
+<img src="https://img.shields.io/badge/ORCID-Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=mihiit&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
@@ -18,40 +29,104 @@
 
 # THE RESEARCH LAB
 
+### RESEARCH · ENGINEERING · RELIABILITY
+
 *Understanding, evaluating, and engineering trustworthy intelligent systems.*
 
 </div>
 
-## 01 — About Me
+---
+
+## 01 — ABOUT ME
 
 I'm Mihit Nanda, a Computer Science researcher working at the intersection of machine learning, AI reliability, and trustworthy intelligent systems.
 
 My work explores how learning systems behave under uncertainty, why intelligent systems fail, and how these failures can be detected, measured, and mitigated.
 
-My research interests include empirical machine learning, LLM reliability, AI safety, federated learning, scientific machine learning, and autonomous AI agents.
+My research interests span empirical machine learning, LLM reliability, AI safety, federated learning, scientific machine learning, and autonomous AI agents.
 
 > A system that performs well is not necessarily a system that can be trusted.
 
 ---
 
-## 02 — Research Domains
+## 02 — RESEARCH DOMAINS
 
-| Domain | Research Directions |
-|:---|:---|
-| LLM Reliability | Hallucination detection, internal representations, failure prediction |
-| AI Safety | Robustness, reliability engineering, failure analysis |
-| Federated Learning | Backdoor attacks, heterogeneity, defense mechanisms |
-| Scientific ML | Numerical stability, reproducibility, computational reliability |
-| AI Agents | Persistent memory, repository understanding, agent reliability |
-| Machine Learning | Optimization, generalization, empirical evaluation |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ LLM Reliability
+
+- Hallucination detection
+- Internal representations
+- Failure prediction
+- Cross-model generalization
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ AI Safety
+
+- Adversarial robustness
+- Reliability engineering
+- Failure analysis
+- Trustworthy AI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Federated Learning
+
+- Backdoor attacks
+- Non-IID heterogeneity
+- Defense mechanisms
+- Robustness evaluation
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Scientific ML
+
+- Numerical stability
+- Reproducibility
+- Optimization
+- Computational reliability
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AI Agents
+
+- Persistent memory
+- Repository understanding
+- Evidence-aware retrieval
+- Agent reliability
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Empirical ML
+
+- Experimental design
+- Statistical evaluation
+- Generalization
+- Reproducible research
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 03 — Featured Research & Engineering
+## 03 — FEATURED RESEARCH & ENGINEERING
 
 <div align="center">
 
-*Selected public repositories*
+*Selected public research repositories*
 
 </div>
 
@@ -60,37 +135,47 @@ My research interests include empirical machine learning, LLM reliability, AI sa
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/BackdoorAttacks">
-<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Cybersecurity and digital network visualization"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=BACKDOOR%20ATTACKS&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,100:075985" width="100%" />
 </a>
 
-<h3>01. BackdoorAttacks</h3>
+### 01. BackdoorAttacks
 
-**Machine Learning Security**
+**Federated Learning Security & Reproducibility**
 
-Exploring backdoor attacks and security vulnerabilities in machine learning systems.
+A reproducible experimental package for federated-learning backdoor attacks and defense evaluation.
+
+- Multiple attack and defense implementations
+- Dataset and simulation pipelines
+- Experiment results and figure generation
+- Reproducibility scripts
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Security-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Federated%20Learning-087E8B?style=flat-square"/>
 
-<a href="https://github.com/mihiit/BackdoorAttacks">↗ VIEW REPOSITORY</a>
+<a href="https://github.com/mihiit/BackdoorAttacks">↗ EXPLORE REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/Ememoveri_Repo">
-<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Artificial intelligence robot and neural technology"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=EMEMOVERI&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:10243B,100:0E7490" width="100%" />
 </a>
 
-<h3>02. EmemoVeri</h3>
+### 02. EmemoVeri
 
-**Repository Memory for Coding Agents**
+**Evidence-Aware Repository Memory**
 
-Exploring persistent repository memory, knowledge retention, and verification for intelligent coding agents.
+A repository memory system for coding agents that maintains evidence about source files and tracks whether remembered information remains current.
 
-<img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square"/>
+- Evidence-backed memory records
+- Git-history-based retrieval benchmark
+- File changes, renames and deletions
+- Reproducibility and statistical evaluation
 
-<a href="https://github.com/mihiit/Ememoveri_Repo">↗ VIEW REPOSITORY</a>
+<img src="https://img.shields.io/badge/AI%20Agents-087E8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Memory%20Systems-203A43?style=flat-square"/>
+
+<a href="https://github.com/mihiit/Ememoveri_Repo">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
@@ -99,157 +184,146 @@ Exploring persistent repository memory, knowledge retention, and verification fo
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/Backdoorfed-ICTACS">
-<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Electronic circuits and computing hardware"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=PROBEGUARD&fontSize=28&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,100:0F766E" width="100%" />
 </a>
 
-<h3>03. Backdoorfed-ICTACS</h3>
+### 03. ProbeGuard
 
-**Federated Learning Security**
+**Federated Backdoor Defense**
 
-Investigating backdoor vulnerabilities and defense mechanisms under heterogeneous federated learning conditions.
+Researching behavioral trigger probing and federated backdoor defense under non-IID data.
+
+- Behavioral trigger probing
+- Ranking versus filtering behavior
+- Defense evaluation under heterogeneity
+- Statistical and reproducibility analysis
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Security-087E8B?style=flat-square"/>
 <img src="https://img.shields.io/badge/MIT%20License-203A43?style=flat-square"/>
 
-<a href="https://github.com/mihiit/Backdoorfed-ICTACS">↗ VIEW REPOSITORY</a>
+<a href="https://github.com/mihiit/Backdoorfed-ICTACS">↗ EXPLORE REPOSITORY</a>
+
+<sub>Repository: Backdoorfed-ICTACS</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/mihiit/RuleDiscovery">
-<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Mathematical equations and scientific visualization"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=125&section=header&text=RULE%20DISCOVERY&fontSize=27&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:172554,100:0369A1" width="100%" />
 </a>
 
-<h3>04. RuleDiscovery</h3>
+### 04. RuleDiscovery
 
-**Rule Discovery & Analysis**
+**Hidden-Rule Discovery by Intelligent Agents**
 
-A research project focused on discovering and analyzing structured rules and patterns.
+A controlled benchmark comparing hypothesis-testing, Bayesian and learned agents in procedural rule-discovery environments.
 
-<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square"/>
-<img src="https://img.shields.io/badge/Research-0891B2?style=flat-square"/>
+- Hypothesis-driven agents
+- Posterior-sampling baselines
+- Learned policy comparisons
+- Statistical evaluation and reproducibility
 
-<a href="https://github.com/mihiit/RuleDiscovery">↗ VIEW REPOSITORY</a>
+<img src="https://img.shields.io/badge/Research-087E8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agent%20Evaluation-203A43?style=flat-square"/>
+
+<a href="https://github.com/mihiit/RuleDiscovery">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-<a href="https://github.com/mihiit?tab=repositories">
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Abstract artificial intelligence visualization"/>
+<a href="https://github.com/mihiit/hallutrace">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=135&section=header&text=HALLUTRACE&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:07111F,30:164E63,100:0891B2" width="100%" />
 </a>
 
-<h3>05. HalluTrace</h3>
+### 05. HalluTrace
 
 **Representation-Based Hallucination Detection**
 
-Investigating hidden-state probing and cross-model generalization for identifying hallucinations in language models.
+Investigating whether internal language-model representations can reveal hallucinations and support more reliable model evaluation.
+
+- Hidden-state representation probing
+- Cross-model generalization
+- Cross-dataset evaluation
+- Early detection and ablation experiments
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Reliability-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20Reliability-087E8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Representation%20Probing-203A43?style=flat-square"/>
 
-<a href="https://github.com/mihiit?tab=repositories">↗ FIND HALLUTRACE REPOSITORY</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/mihiit?tab=repositories">
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Global digital network and interconnected systems"/>
-</a>
-
-<h3>06. Research in Progress</h3>
-
-**Emerging Research Directions**
-
-Developing new empirical investigations into the reliability, convergence, and behavior of intelligent systems.
-
-<img src="https://img.shields.io/badge/Research%20in%20Progress-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Experimental%20ML-203A43?style=flat-square"/>
-
-<a href="https://github.com/mihiit?tab=repositories">↗ EXPLORE RESEARCH</a>
+<a href="https://github.com/mihiit/hallutrace">↗ EXPLORE REPOSITORY</a>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/mihiit?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 ---
 
-## 04 — Research in Development
+## 04 — RESEARCH IN PROGRESS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ SeedDivergence
+<img src="https://capsule-render.vercel.app/api?type=rect&height=95&section=header&text=SEEDDIVERGENCE&fontSize=24&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:10243B,100:075985" width="100%"/>
 
-**Functional Similarity Across Independently Trained Neural Networks**
+### Functional Similarity Across Neural Networks
 
 Investigating whether independently trained neural networks converge toward functionally similar solutions despite differences in initialization and optimization trajectories.
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ The Evidence Doesn't Agree
+<img src="https://capsule-render.vercel.app/api?type=rect&height=95&section=header&text=THE%20EVIDENCE%20DOESN'T%20AGREE&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=0:312E81,100:0E7490" width="100%"/>
 
-**Clinical Evidence Conflict & Temporal Reliability**
+### Clinical Evidence Conflict & Temporal Reliability
 
 Investigating conflicting clinical evidence, temporal changes, and reliability in evidence-driven AI systems.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Reliability Lab
-
-**Early Warning Detection of LLM Failures**
-
-Exploring internal representation dynamics as early warning signals for emerging LLM reliability failures.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Hallucination Research
-
-**Representation-Based Reliability Evaluation**
-
-Investigating how internal model representations can reveal factual inconsistencies and hallucination risks.
-
-</td>
-</tr>
 </table>
 
-*Projects without a public repository are presented as research directions, not released software.*
+<sub>These are active research directions, not yet publicly released GitHub repositories.</sub>
 
 ---
 
-## 05 — Technology Ecosystem
+## 05 — TECHNOLOGY ECOSYSTEM
 
-### Languages
+### Languages & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css,git,github&theme=dark"/>
 </p>
 
 ### Machine Learning & AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark"/>
 </p>
 
-### Development & Infrastructure
+### Frameworks & Infrastructure
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,linux,git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,linux,vscode&theme=dark"/>
 </p>
 
-**Scientific stack:** NumPy · Pandas · SciPy · Matplotlib · Hugging Face · Transformers · Jupyter · Statistical Analysis
+**Scientific computing:** NumPy · Pandas · SciPy · Matplotlib · Hugging Face · Transformers · Jupyter
 
 ---
 
-## 06 — Research & Publications
+## 06 — RESEARCH & PUBLICATIONS
 
 My academic work investigates:
 
@@ -262,14 +336,14 @@ My academic work investigates:
 <div align="center">
 
 <a href="https://orcid.org/0009-0003-7849-6106">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20RESEARCH-ORCID-A6CE39?style=for-the-badge&logo=orcid"/>
+<img src="https://img.shields.io/badge/VIEW%20RESEARCH%20PROFILE-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 07 — GitHub Achievements
+## 07 — GITHUB ACHIEVEMENTS
 
 <div align="center">
 
@@ -279,66 +353,60 @@ My academic work investigates:
 
 ---
 
-## 08 — GitHub Analytics
+## 08 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mihiit&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1727&title_color=22D3EE&icon_color=22D3EE&text_color=DCE6F1" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiit&layout=donut&langs_count=8&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1" width="43%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiit&layout=compact&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1" width="41%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mihiit&theme=transparent&hide_border=true&background=0B1727&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=DCE6F1&dates=8CA3B8" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=mihiit&theme=transparent&hide_border=true&background=0B1727&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=DCE6F1&dates=8CA3B8" width="53%"/>
 
 </div>
 
 ---
 
-## 09 — Three-Dimensional Contribution Calendar
+## 09 — CONTRIBUTION VISUALIZATIONS
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Three-dimensional GitHub contribution calendar"/>
+**My development activity is also reflected in GitHub's native contribution calendar above this profile README.**
+
+<a href="https://github.com/mihiit?tab=overview">
+<img src="https://img.shields.io/badge/VIEW%20CONTRIBUTION%20HISTORY-087E8B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<!--
+ENABLE THESE IMAGES ONLY AFTER THE GITHUB ACTIONS WORKFLOWS
+HAVE SUCCESSFULLY GENERATED AND PUBLISHED THE FILES.
 
-## 10 — Contribution Snake
+3D CALENDAR:
+<img src="https://raw.githubusercontent.com/mihiit/mihiit/main/profile-3d-contrib/profile-night-view.svg" width="100%"/>
 
-<div align="center">
-
+CONTRIBUTION SNAKE:
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-</div>
+-->
 
 ---
 
-## 11 — Development Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiit&bg_color=0B1727&color=DCE6F1&line=22D3EE&point=FFFFFF&area=true&area_color=087E8B&hide_border=true&custom_title=RESEARCH%20%26%20DEVELOPMENT%20ACTIVITY" width="100%"/>
-
-</div>
-
----
-
-## 12 — Connect
+## 10 — CONNECT
 
 <div align="center">
 
 <a href="https://github.com/mihiit">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://orcid.org/0009-0003-7849-6106">
-<img src="https://img.shields.io/badge/ORCID-Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid"/>
+<img src="https://img.shields.io/badge/ORCID-RESEARCH%20PROFILE-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -349,6 +417,6 @@ My academic work investigates:
 
 *Question assumptions. Measure failures. Build reliable intelligence.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050B18,35:10243B,70:075985,100:06B6D4&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=135&color=0:050B18,35:10243B,70:075985,100:06B6D4&section=footer" width="100%"/>
 
 </div>
