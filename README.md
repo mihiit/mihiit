@@ -377,7 +377,7 @@ My academic work investigates:
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
-<img src="https://github-readme-stats.vercel.app/api?username=mihiit&show_icons=true&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1&icon_color=06B6D4&ring_color=22D3EE&include_all_commits=true&count_private=true&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mihiit&show_icons=true&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1&icon_color=06B6D4&ring_color=22D3EE&rank_icon=github" width="100%"/>
 </td>
 <td width="50%" align="center" valign="middle">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiit&layout=donut&langs_count=8&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1" width="100%"/>
