@@ -1,20 +1,14 @@
-<!-- =========================================================
-     MIHIT NANDA | RESEARCH LAB PROFILE
-     NAVY / CYAN / SCIENTIFIC VISUAL IDENTITY
-========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:07111F,35:102A43,70:087E8B,100:00B4D8&text=MIHIT%20NANDA&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=RELIABLE%20AI%20%7C%20MACHINE%20LEARNING%20%7C%20RESEARCH&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050B18,25:10243B,60:075985,100:06B6D4&text=MIHIT%20NANDA&fontSize=55&fontColor=FFFFFF&fontAlignY=37&desc=AI%20RESEARCHER%20%7C%20MACHINE%20LEARNING%20ENGINEER&descSize=15&descAlignY=57&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=800&color=00D4E8&center=true&vCenter=true&width=750&lines=AI+Researcher+%7C+Machine+Learning+Engineer;Understanding+Why+Intelligent+Systems+Fail;Building+Reliable+and+Trustworthy+AI;Research.+Experimentation.+Reproducibility." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Investigating+the+Reliability+of+Intelligent+Systems;LLM+Reliability+%7C+AI+Safety+%7C+Federated+Learning;Scientific+Machine+Learning+%7C+AI+Agents;Question+Assumptions.+Measure+Failures.+Build+Reliable+AI." />
 
 <br/>
 
-<a href="https://github.com/mihiit"><img src="https://img.shields.io/badge/GitHub-mihiit-0B1727?style=for-the-badge&logo=github" /></a>
-<a href="https://orcid.org/0009-0003-7849-6106"><img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=mihiit&style=for-the-badge&color=087E8B&label=PROFILE+VISITS" />
+<a href="https://github.com/mihiit"><img src="https://img.shields.io/badge/GitHub-mihiit-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0003-7849-6106"><img src="https://img.shields.io/badge/ORCID-Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=mihiit&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -22,27 +16,27 @@
 
 <div align="center">
 
-# RESEARCH. ENGINEERING. RELIABILITY.
+# THE RESEARCH LAB
 
-*Building intelligent systems that can be evaluated, understood, and trusted.*
+*Understanding, evaluating, and engineering trustworthy intelligent systems.*
 
 </div>
 
-## 01 — ABOUT ME
+## 01 — About Me
 
 I'm Mihit Nanda, a Computer Science researcher working at the intersection of machine learning, AI reliability, and trustworthy intelligent systems.
 
-My research explores how learning systems behave under uncertainty, why intelligent systems fail, and how these failures can be detected, measured, and mitigated.
+My work explores how learning systems behave under uncertainty, why intelligent systems fail, and how these failures can be detected, measured, and mitigated.
 
-My interests span empirical machine learning, LLM reliability, AI safety, federated learning, scientific machine learning, and autonomous AI agents.
+My research interests include empirical machine learning, LLM reliability, AI safety, federated learning, scientific machine learning, and autonomous AI agents.
 
-**Research philosophy:** A system that performs well is not necessarily a system that can be trusted.
+> A system that performs well is not necessarily a system that can be trusted.
 
 ---
 
-## 02 — RESEARCH DOMAINS
+## 02 — Research Domains
 
-| Research Domain | Areas of Investigation |
+| Domain | Research Directions |
 |:---|:---|
 | LLM Reliability | Hallucination detection, internal representations, failure prediction |
 | AI Safety | Robustness, reliability engineering, failure analysis |
@@ -53,11 +47,11 @@ My interests span empirical machine learning, LLM reliability, AI safety, federa
 
 ---
 
-## 03 — SELECTED RESEARCH & ENGINEERING
+## 03 — Featured Research & Engineering
 
 <div align="center">
 
-*Selected projects and research directions*
+*Selected public repositories*
 
 </div>
 
@@ -65,30 +59,38 @@ My interests span empirical machine learning, LLM reliability, AI safety, federa
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ ProbeGuard</h3>
+<a href="https://github.com/mihiit/BackdoorAttacks">
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Cybersecurity and digital network visualization"/>
+</a>
 
-**Federated Learning Security**
+<h3>01. BackdoorAttacks</h3>
 
-Investigating backdoor vulnerabilities and defense behavior under heterogeneous federated learning environments.
+**Machine Learning Security**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Federated%20Learning-087E8B?style=flat-square" />
+Exploring backdoor attacks and security vulnerabilities in machine learning systems.
 
-<a href="https://github.com/mihiit/Backdoorfed-ICTACS">↗ Explore Repository</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Security-0891B2?style=flat-square"/>
+
+<a href="https://github.com/mihiit/BackdoorAttacks">↗ VIEW REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 EmemoVeri</h3>
+<a href="https://github.com/mihiit/Ememoveri_Repo">
+<img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Artificial intelligence robot and neural technology"/>
+</a>
+
+<h3>02. EmemoVeri</h3>
 
 **Repository Memory for Coding Agents**
 
-Exploring persistent repository memory and knowledge retention for intelligent coding agents.
+Exploring persistent repository memory, knowledge retention, and verification for intelligent coding agents.
 
-<img src="https://img.shields.io/badge/AI%20Agents-087E8B?style=flat-square" />
-<img src="https://img.shields.io/badge/Memory%20Systems-203A43?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Agents-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square"/>
 
-<a href="https://github.com/mihiit/Ememoveri_Repo">↗ Explore Repository</a>
+<a href="https://github.com/mihiit/Ememoveri_Repo">↗ VIEW REPOSITORY</a>
 
 </td>
 </tr>
@@ -96,74 +98,158 @@ Exploring persistent repository memory and knowledge retention for intelligent c
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔬 Hidden-State Trajectories</h3>
+<a href="https://github.com/mihiit/Backdoorfed-ICTACS">
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Electronic circuits and computing hardware"/>
+</a>
 
-**Representation-Level Analysis**
+<h3>03. Backdoorfed-ICTACS</h3>
 
-Investigating hidden-state trajectories and internal representation dynamics in neural models.
+**Federated Learning Security**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Representation%20Analysis-087E8B?style=flat-square" />
+Investigating backdoor vulnerabilities and defense mechanisms under heterogeneous federated learning conditions.
 
-<a href="https://github.com/mihiit/Hidden-StateTrajectories-ESCI">↗ Explore Repository</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MIT%20License-203A43?style=flat-square"/>
+
+<a href="https://github.com/mihiit/Backdoorfed-ICTACS">↗ VIEW REPOSITORY</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📡 Fluid Antenna Air Computation</h3>
+<a href="https://github.com/mihiit/RuleDiscovery">
+<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Mathematical equations and scientific visualization"/>
+</a>
 
-**Wireless Communication Research**
+<h3>04. RuleDiscovery</h3>
 
-Exploring fluid antenna systems and over-the-air computation.
+**Rule Discovery & Analysis**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireless%20Research-203A43?style=flat-square" />
+A research project focused on discovering and analyzing structured rules and patterns.
 
-<a href="https://github.com/mihiit/fluidantenna_aircomputation">↗ Explore Repository</a>
+<img src="https://img.shields.io/badge/TeX-3D6117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-0891B2?style=flat-square"/>
+
+<a href="https://github.com/mihiit/RuleDiscovery">↗ VIEW REPOSITORY</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mihiit?tab=repositories">
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Abstract artificial intelligence visualization"/>
+</a>
+
+<h3>05. HalluTrace</h3>
+
+**Representation-Based Hallucination Detection**
+
+Investigating hidden-state probing and cross-model generalization for identifying hallucinations in language models.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM%20Reliability-0891B2?style=flat-square"/>
+
+<a href="https://github.com/mihiit?tab=repositories">↗ FIND HALLUTRACE REPOSITORY</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mihiit?tab=repositories">
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1000&q=85" width="100%" alt="Global digital network and interconnected systems"/>
+</a>
+
+<h3>06. Research in Progress</h3>
+
+**Emerging Research Directions**
+
+Developing new empirical investigations into the reliability, convergence, and behavior of intelligent systems.
+
+<img src="https://img.shields.io/badge/Research%20in%20Progress-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Experimental%20ML-203A43?style=flat-square"/>
+
+<a href="https://github.com/mihiit?tab=repositories">↗ EXPLORE RESEARCH</a>
 
 </td>
 </tr>
 </table>
 
-### Research in Progress
+---
 
-| Project | Research Focus |
-|:---|:---|
-| SeedDivergence | Functional similarity and convergence across independently trained neural networks |
-| Reliability Lab | Early warning detection of LLM reliability failures |
-| HalluTrace | Representation-based hallucination detection |
-| Mnemosyne | Persistent memory architecture for AI systems |
-| The Evidence Doesn't Agree | Clinical evidence conflict and temporal reliability |
+## 04 — Research in Development
 
-*The projects above are research directions; only the linked repositories are presented as public repository cards.*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ SeedDivergence
+
+**Functional Similarity Across Independently Trained Neural Networks**
+
+Investigating whether independently trained neural networks converge toward functionally similar solutions despite differences in initialization and optimization trajectories.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ The Evidence Doesn't Agree
+
+**Clinical Evidence Conflict & Temporal Reliability**
+
+Investigating conflicting clinical evidence, temporal changes, and reliability in evidence-driven AI systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Reliability Lab
+
+**Early Warning Detection of LLM Failures**
+
+Exploring internal representation dynamics as early warning signals for emerging LLM reliability failures.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Hallucination Research
+
+**Representation-Based Reliability Evaluation**
+
+Investigating how internal model representations can reveal factual inconsistencies and hallucination risks.
+
+</td>
+</tr>
+</table>
+
+*Projects without a public repository are presented as research directions, not released software.*
 
 ---
 
-## 04 — TECHNOLOGY ECOSYSTEM
+## 05 — Technology Ecosystem
 
-### Languages & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css,git,github" />
-</p>
-
-### Artificial Intelligence & Machine Learning
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css"/>
 </p>
 
-### Frameworks & Infrastructure
+### Machine Learning & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn"/>
 </p>
 
-**Scientific stack:** NumPy · Pandas · SciPy · Matplotlib · Hugging Face · Transformers · Jupyter
+### Development & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,linux,git,github,vscode"/>
+</p>
+
+**Scientific stack:** NumPy · Pandas · SciPy · Matplotlib · Hugging Face · Transformers · Jupyter · Statistical Analysis
 
 ---
 
-## 05 — RESEARCH & PUBLICATIONS
+## 06 — Research & Publications
 
 My academic work investigates:
 
@@ -176,83 +262,83 @@ My academic work investigates:
 <div align="center">
 
 <a href="https://orcid.org/0009-0003-7849-6106">
-<img src="https://img.shields.io/badge/ORCID-View%20Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid" />
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20RESEARCH-ORCID-A6CE39?style=for-the-badge&logo=orcid"/>
 </a>
 
 </div>
 
 ---
 
-## 06 — GITHUB ACHIEVEMENTS
+## 07 — GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mihiit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=mihiit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
 
 </div>
 
 ---
 
-## 07 — GITHUB ANALYTICS
+## 08 — GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mihiit&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1727&title_color=00D4E8&icon_color=00D4E8&text_color=DCE6F1" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mihiit&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B1727&title_color=22D3EE&icon_color=22D3EE&text_color=DCE6F1" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiit&layout=compact&hide_border=true&bg_color=0B1727&title_color=00D4E8&text_color=DCE6F1" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiit&layout=compact&hide_border=true&bg_color=0B1727&title_color=22D3EE&text_color=DCE6F1" width="41%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mihiit&theme=transparent&hide_border=true&background=0B1727&ring=00D4E8&fire=00D4E8&currStreakLabel=00D4E8&sideLabels=DCE6F1&dates=8CA3B8" width="75%" />
+<img src="https://streak-stats.demolab.com?user=mihiit&theme=transparent&hide_border=true&background=0B1727&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=DCE6F1&dates=8CA3B8" width="75%"/>
 
 </div>
 
 ---
 
-## 08 — THREE-DIMENSIONAL CONTRIBUTION CALENDAR
+## 09 — Three-Dimensional Contribution Calendar
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution calendar" />
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Three-dimensional GitHub contribution calendar"/>
 
 </div>
 
 ---
 
-## 09 — CONTRIBUTION SNAKE
+## 10 — Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/mihiit/mihiit/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </picture>
 
 </div>
 
 ---
 
-## 10 — CONTRIBUTION ACTIVITY
+## 11 — Development Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiit&bg_color=0B1727&color=DCE6F1&line=00D4E8&point=FFFFFF&area=true&area_color=087E8B&hide_border=true&custom_title=Research%20%26%20Development%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiit&bg_color=0B1727&color=DCE6F1&line=22D3EE&point=FFFFFF&area=true&area_color=087E8B&hide_border=true&custom_title=RESEARCH%20%26%20DEVELOPMENT%20ACTIVITY" width="100%"/>
 
 </div>
 
 ---
 
-## 11 — CONNECT
+## 12 — Connect
 
 <div align="center">
 
 <a href="https://github.com/mihiit">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://orcid.org/0009-0003-7849-6106">
-<img src="https://img.shields.io/badge/ORCID-Research%20Profile-A6CE39?style=for-the-badge&logo=orcid" />
+<img src="https://img.shields.io/badge/ORCID-Research%20Portfolio-A6CE39?style=for-the-badge&logo=orcid"/>
 </a>
 
 <br/><br/>
@@ -263,6 +349,6 @@ My academic work investigates:
 
 *Question assumptions. Measure failures. Build reliable intelligence.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:102A43,70:087E8B,100:00B4D8&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050B18,35:10243B,70:075985,100:06B6D4&section=footer" width="100%"/>
 
 </div>
